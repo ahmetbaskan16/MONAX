@@ -1,0 +1,6 @@
+{
+  "name": "MONAX Akıllı Tarım",
+  "description": "MONAX Akıllı Tarım Asistanı — Sera domatesleri, biber tarlaları ve yapay zeka destekli analiz paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
